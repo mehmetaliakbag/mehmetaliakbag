@@ -1,5 +1,3 @@
-<img align="right" src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230" />
-
 <h2>☄️ Hey! I'm Mehmet Ali.</h2>
 
 - 👾 A passionate fullstack developer-in-training diving headfirst into the world of coding
@@ -16,7 +14,6 @@
 <a href="https://www.linkedin.com/in/mehmetaliakbag/" target="blank" rel="noopener"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="mehmetaliakbag" height="30" width="30" /></a>
 </p>
 
-<img align="right" src="https://c.tenor.com/4gPD1ccxrVgAAAAC/rick-ashley-dance.gif" width="280" height="230" />
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
